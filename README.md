@@ -9,7 +9,7 @@ Esta aplicación web te permite obtener información sobre un país utilizando u
 
 ```bash
 # Clonar el Repositorio
-git clone <URL_DEL_REPOSITORIO>
+git clone https://github.com/iRizok/API-SOAP-paises.git
 cd Country-Info-App
 
 # Instalar Dependencias (asegúrate de tener Node.js y npm instalados)
@@ -33,5 +33,3 @@ El servidor se ejecutará en `http://localhost:8080`. Puedes acceder a la aplica
 - Asegúrate de tener una conexión a Internet activa para que la aplicación funcione correctamente.
 
 ¡Disfruta explorando la información sobre diferentes países con Country Info App!
-
-Este formato proporciona los comandos en estilo de terminal bash (`bash`). Reemplaza `<URL_DEL_REPOSITORIO>` con la URL real de tu repositorio para que los usuarios puedan clonar el repositorio correctamente.
