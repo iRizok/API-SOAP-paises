@@ -13,7 +13,7 @@ git clone https://github.com/iRizok/API-SOAP-paises.git
 cd Country-Info-App
 
 # Instalar Dependencias (asegúrate de tener Node.js y npm instalados)
-npm install
+npm install cors-anywhere
 
 # Ejecutar el Servidor
 node server.js
